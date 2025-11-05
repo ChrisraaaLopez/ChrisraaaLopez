@@ -20,14 +20,14 @@ Actualmente, mi enfoque principal es la práctica y el desarrollo en el campo de
 
 Cuento con experiencia en diferentes partes del stack de desarrollo:
 
-### 💻 Backend (Lado del Servidor)
+### 💻 Backend
 
 Tengo experiencia en la construcción de lógica de servidor y APIs utilizando lenguajes robustos:
 
 * **Java**
 * **PHP**
 
-### 🎨 Frontend (Lo Básico)
+### 🎨 Frontend
 
 Conozco los fundamentos para construir interfaces de usuario y maquetación web:
 
@@ -47,8 +47,6 @@ Para el diseño de productos y la creación de prototipos, utilizo herramientas 
 ## 📊 Estadísticas de GitHub
 
 Aquí puedes ver mi actividad y lenguajes más usados en GitHub.
-
-> **Importante:** Reemplaza `TU_USUARIO_DE_GITHUB` con tu nombre de usuario real en los enlaces de abajo para que las estadísticas funcionen.
 
 | Mis Estadísticas | Lenguajes Más Usados |
 | :---: | :---: |
