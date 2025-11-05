@@ -1,4 +1,4 @@
-http://googleusercontent.com/image_generation_content/0
+<img src="Portada.png">
 
 # ¡Hola! 👋 Soy Christian Lopez
 
