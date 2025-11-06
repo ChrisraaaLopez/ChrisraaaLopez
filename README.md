@@ -1,46 +1,17 @@
-<img src="Portada.png">
 
 # ¡Hola! 👋 Soy Christian Lopez
 
 Soy un desarrollador apasionado por el código, con una base sólida en el desarrollo backend y una inmersión constante en el mundo de la Inteligencia Artificial (IA).
 
 ---
-
-## 🐍 Mis Habilidades de Desarrollo en Python e IA
-
-Actualmente, mi enfoque principal es la práctica y el desarrollo en el campo de la **Inteligencia Artificial** y el **Machine Learning**.
-
-| Área | Herramientas y Plataformas |
+| 🧩 Categoría | 💼 Habilidades / Herramientas |
 | :--- | :--- |
-| **Desarrollo de IA** | Python, Pandas, NumPy, Scikit-learn, TensorFlow |
-| **Entornos de Práctica** | Jupyter Notebook, Google Colab y entornos virtuales locales. |
+| **IA y Machine Learning** | Python, Pandas, NumPy, Scikit-learn, TensorFlow |
+| **Entornos de Práctica** | Jupyter Notebook, Google Colab, entornos virtuales locales |
 | **Lenguaje Base** | Python |
-
-## 🌐 Stack de Desarrollo Web
-
-Cuento con experiencia en diferentes partes del stack de desarrollo:
-
-### 💻 Backend
-
-Tengo experiencia en la construcción de lógica de servidor y APIs utilizando lenguajes robustos:
-
-* **Java**
-* **PHP**
-
-### 🎨 Frontend
-
-Conozco los fundamentos para construir interfaces de usuario y maquetación web:
-
-* HTML5
-* CSS3
-* JavaScript (Fundamentos)
-
-## 💡 Diseño y Experiencia de Usuario (UX/UI)
-
-Para el diseño de productos y la creación de prototipos, utilizo herramientas líderes en la industria:
-
-* **Figma:** Para el diseño de interfaces de usuario (UI) y prototipado.
-* **Adobe Illustrator:** Para la creación de gráficos, iconos y elementos visuales.
+| **Backend** | Java, PHP |
+| **Frontend** | HTML5, CSS3, JavaScript (fundamentos) |
+| **Diseño UX/UI** | Figma, Adobe Illustrator |
 
 ---
 
@@ -57,8 +28,8 @@ Aquí puedes ver mi actividad y lenguajes más usados en GitHub.
 
 ### 📬 Conéctate Conmigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](URL_DE_TU_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU_CORREO@ejemplo.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chrisraaalopez14@gmail.com)
 
 ---
 
