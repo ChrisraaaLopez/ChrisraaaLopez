@@ -1,16 +1,14 @@
 
 # ¡Hola! 👋 Soy Christian Lopez
 
-Soy un desarrollador apasionado por el código, con una base sólida en el desarrollo backend y una inmersión constante en el mundo de la Inteligencia Artificial (IA).
+Soy un desarrollador en proceso, con una base  en el desarrollo backend y una inmersión constante en el mundo de la Inteligencia Artificial (IA).
 
 ---
 | 🧩 Categoría | 💼 Habilidades / Herramientas |
 | :--- | :--- |
 | **IA y Machine Learning** | Python, Pandas, NumPy, Scikit-learn, TensorFlow |
-| **Entornos de Práctica** | Jupyter Notebook, Google Colab, entornos virtuales locales |
-| **Lenguaje Base** | Python |
 | **Backend** | Java, PHP |
-| **Frontend** | HTML5, CSS3, JavaScript (fundamentos) |
+| **Frontend** | HTML5, CSS3, JavaScript|
 | **Diseño UX/UI** | Figma, Adobe Illustrator |
 
 ---
