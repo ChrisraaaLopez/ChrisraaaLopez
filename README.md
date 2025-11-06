@@ -4,7 +4,7 @@
 Soy un desarrollador en proceso, con una base  en el desarrollo backend y una inmersión constante en el mundo de la Inteligencia Artificial (IA).
 
 ---
-| 🧩 Categoría | 💼 Habilidades / Herramientas |
+| Categoría | Habilidades / Herramientas |
 | :--- | :--- |
 | **IA y Machine Learning** | Python, Pandas, NumPy, Scikit-learn, TensorFlow |
 | **Backend** | Java, PHP |
@@ -13,7 +13,7 @@ Soy un desarrollador en proceso, con una base  en el desarrollo backend y una in
 
 ---
 
-## 📊 Estadísticas de GitHub
+## Estadísticas de GitHub
 
 Aquí puedes ver mi actividad y lenguajes más usados en GitHub.
 
