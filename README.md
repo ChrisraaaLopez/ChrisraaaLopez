@@ -13,14 +13,10 @@ Soy un desarrollador en proceso, con una base  en el desarrollo backend y una in
 
 ---
 
-## Estadísticas de GitHub
-
 Aquí puedes ver mi actividad y lenguajes más usados en GitHub.
 
-| Mis Estadísticas | Lenguajes Más Usados |
 | :---: | :---: |
 | [![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=ChrisraaaLopez&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats) | [![Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisraaaLopez&layout=compact&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats) |
-
 
 ---
 
