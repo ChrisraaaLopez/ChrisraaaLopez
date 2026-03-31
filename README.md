@@ -1,42 +1,56 @@
-# Christian Lopez
+# ¡Hola 👋, soy Christian!
 
-Estudiante de Ingeniería en Sistemas enfocado en Ciberseguridad, Infraestructura de Redes y Operaciones IT. Mi objetivo es la implementación de seguridad defensiva, automatización de sistemas y gestión de arquitecturas resilientes.
+![Banner de .NET moderno](https://img.shields.io/badge/.NET_8+_|_C%23-_-%23512BD4?style=for-the-badge&logo=.net&logoColor=white) 
+![Azure Developer](https://img.shields.io/badge/Azure_|_Cloud_Native-_-%230089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Clean Architecture](https://img.shields.io/badge/Architecture_|_DDD-_-%23333?style=for-the-badge&logo=directus&logoColor=white)
 
 ---
 
-### Stack Técnico y Áreas de Interés
+### Sobre mí
+
+Soy un Ingeniero en Sistemas Computacionales (ISC) especializado en el desarrollo **Backend robusto y escalable utilizando el SDK de .NET moderno (C#)**. Mi enfoque principal es la construcción de arquitecturas limpias, seguras y de alto rendimiento en la nube (Azure/AWS), aplicando principios como DDD, CQRS y SOLID. Constantemente profundizando en las últimas novedades de ASP.NET Core y Entity Framework Core.
+
+---
+
+### Stack Técnico (.NET Ecosystem)
 
 | Categoría | Habilidades / Herramientas |
 | :--- | :--- |
-| **Ciberseguridad** | Hacking Ético, Hardening de Sistemas, DevSecOps, Análisis de Vulnerabilidades |
-| **Redes e IT** | Cisco CCNA (Routing & Switching), Elastix (VoIP), Active Directory, GPOs |
-| **Infraestructura / OS** | Linux (Admin), Windows Server, Virtualización, Cloud Computing |
-| **Automatización** | Python, Bash Scripting, PowerShell |
-| **Desarrollo Base** | Java (Spring Boot), PHP (Laravel), Git/GitHub |
+| **Desarrollo Backend** | **C# (.NET 8/9)**, **ASP.NET Core Web API**, Entity Framework Core, LINQ, Dapper, SignalR, Background Services (Worker Services) |
+| **Nube & Infraestructura**| **Azure** (Functions, SQL Database, Blob Storage, App Services), Docker, Kubernetes, CI/CD Pipelines |
+| **Bases de Datos** | **MS SQL Server**, PostgreSQL |
+| **Patrones & Prácticas** | Clean Architecture, CQRS, DDD (Domain-Driven Design), SOLID, TDD (xUnit/FluentAssertions) |
 
 ---
 
-### Estadísticas de GitHub
+### Stats GitHub
 
-Seguimiento de actividad y lenguajes más utilizados en el desarrollo de herramientas y scripts de seguridad.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ChrisraaaLopez&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Estadísticas Generales de Christian" width="48%" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChrisraaaLopez&theme=dark&hide_border=true" alt="Racha de contribuciones de Christian" width="48%" />
+</p>
 
-[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=ChrisraaaLopez&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats) 
-[![Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisraaaLopez&layout=compact&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisraaaLopez&layout=compact&theme=dark&hide_border=true&langs_count=8&hide=html,css,scss,php,python" alt="Lenguajes Más Usados por Christian" width="70%" />
+</p>
 
----
-
-### Proyectos Destacados
-* **Laboratorios de Redes:** Configuraciones avanzadas de VLANs y seguridad perimetral.
-* **Scripts de Auditoría:** Automatización de chequeos de seguridad en servidores Windows/Linux.
-* **ONYX / NeoGuard:** Implementación de seguridad física y lógica mediante visión artificial.
-
----
-
-### Contacto
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](TU_LINK_DE_LINKEDIN_AQUI)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chrisraaalopez14@gmail.com)
+> *Nota: Estas gráficas se actualizarán solas conforme empieces a subir tus repositorios de .NET.*
 
 ---
 
-> "Seguridad por diseño, estabilidad por disciplina."
+### 👇 ¡Hablemos! (Contáctame)
+
+<p align="center">
+  <a href="TU_LINK_DE_LINKEDIN_AQUI">
+    <img src="https://img.shields.io/badge/LinkedIn-_-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Christian" />
+  </a>
+  <a href="mailto:tu.correo@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-_-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail de Christian" />
+  </a>
+  <a href="TU_LINK_DE_TU_CV_EN_PDF_AQUI_POR_EJEMPLO_DRIVE">
+    <img src="https://img.shields.io/badge/Descargar_CV-_-%23333?style=for-the-badge&logo=directus&logoColor=white" alt="Descargar CV de Christian" />
+  </a>
+</p>
+
+---
