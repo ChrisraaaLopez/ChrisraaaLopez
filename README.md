@@ -40,15 +40,13 @@ Soy un Ingeniero en Sistemas Computacionales (ISC) especializado en el desarroll
 ### 👇 ¡Hablemos! (Contáctame)
 
 <p align="center">
-  <a href="TU_LINK_DE_LINKEDIN_AQUI">
-    <img src="https://img.shields.io/badge/LinkedIn-_-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Christian" />
-  </a>
-  <a href="mailto:tu.correo@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-_-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail de Christian" />
-  </a>
-  <a href="TU_LINK_DE_TU_CV_EN_PDF_AQUI_POR_EJEMPLO_DRIVE">
-    <img src="https://img.shields.io/badge/Descargar_CV-_-%23333?style=for-the-badge&logo=directus&logoColor=white" alt="Descargar CV de Christian" />
-  </a>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ChrisraaaLopez&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Estadísticas de Christian" width="48%" />
+
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ChrisraaaLopez&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Lenguajes de Christian" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChrisraaaLopez&theme=dark&hide_border=true" alt="Racha de Christian" width="80%" />
 </p>
 
 ---
