@@ -26,9 +26,9 @@ Soy un Ingeniero en Sistemas Computacionales (ISC) especializado en el desarroll
 ### Stats GitHub
 
 <p align="center">
-  <img height="195" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ChrisraaaLopez&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Estadísticas de Christian" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ChrisraaaLopez&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Estadísticas de Christian" width="48%" />
 
-  <img height="195" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ChrisraaaLopez&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Lenguajes de Christian" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ChrisraaaLopez&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Lenguajes de Christian" width="48%" />
 </p>
 
 <p align="center">
