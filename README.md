@@ -39,16 +39,15 @@ Soy un Ingeniero en Sistemas Computacionales (ISC) especializado en el desarroll
 
 ### 👇 ¡Hablemos! (Contáctame)
 
-### 👇 ¡Hablemos! (Contáctame)
 
 <p align="center">
-  <a href="#">
+  <a href="#" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-_-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Christian" />
   </a>
-  <a href="mailto:chrisraaalopez14@gmail.com">
+  <a href="mailto:chrisraaalopez14@gmail.com" target="blank">
     <img src="https://img.shields.io/badge/Gmail-_-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail de Christian" />
   </a>
-  <a href="#">
+  <a href="#" target="blank">
     <img src="https://img.shields.io/badge/Descargar_CV-_-%23333?style=for-the-badge&logo=directus&logoColor=white" alt="Descargar CV de Christian" />
   </a>
 </p>
