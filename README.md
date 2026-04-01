@@ -8,33 +8,16 @@
 
 ### Sobre mí
 
-Soy un Ingeniero en Sistemas Computacionales (ISC) especializado en el desarrollo **Backend robusto y escalable utilizando el SDK de .NET moderno (C#)**. Mi enfoque principal es la construcción de arquitecturas limpias, seguras y de alto rendimiento en la nube (Azure/AWS), aplicando principios como DDD, CQRS y SOLID. Constantemente profundizando en las últimas novedades de ASP.NET Core y Entity Framework Core.
-
----
-
-### Stack Técnico (.NET Ecosystem)
-
-| Categoría | Habilidades / Herramientas |
-| :--- | :--- |
-| **Desarrollo Backend** | **C# (.NET 8/9)**, **ASP.NET Core Web API**, Entity Framework Core, LINQ, Dapper, SignalR, Background Services (Worker Services) |
-| **Nube & Infraestructura**| **Azure** (Functions, SQL Database, Blob Storage, App Services), Docker, Kubernetes, CI/CD Pipelines |
-| **Bases de Datos** | **MS SQL Server**, PostgreSQL |
-| **Patrones & Prácticas** | Clean Architecture, CQRS, DDD (Domain-Driven Design), SOLID, TDD (xUnit/FluentAssertions) |
+Soy un Ingeniero en Sistemas Computacionales (ISC) especializado en el desarrollo **Backend robusto y escalable utilizando el SDK de .NET moderno (C#)**. Mi enfoque principal es la construcción de arquitecturas limpias, seguras y de alto rendimiento en la nube (Azure/AWS).
 
 ---
 
 ### Stats GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ChrisraaaLopez&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Estadísticas de Christian" width="48%" />
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChrisraaaLopez&theme=dark&hide_border=true" alt="Racha de Christian" width="49%" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ChrisraaaLopez&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Lenguajes de Christian" width="48%" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChrisraaaLopez&theme=dark&hide_border=true" alt="Racha de Christian" width="80%" />
-</p>
-
 ---
 
 ### 👇 ¡Hablemos! (Contáctame)
