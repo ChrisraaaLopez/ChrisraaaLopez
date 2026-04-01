@@ -15,8 +15,8 @@ Soy un Ingeniero en Sistemas Computacionales (ISC) especializado en el desarroll
 ### Stats GitHub
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChrisraaaLopez&theme=dark&hide_border=true" alt="Racha de Christian" width="49%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ChrisraaaLopez&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Lenguajes de Christian" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChrisraaaLopez&theme=dark&hide_border=true" alt="Racha de Christian" width="55%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ChrisraaaLopez&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Lenguajes de Christian" width="44%" />
 </p>
 ---
 
