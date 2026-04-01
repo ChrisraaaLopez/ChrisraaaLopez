@@ -18,6 +18,7 @@ Soy un Ingeniero en Sistemas Computacionales (ISC) especializado en el desarroll
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChrisraaaLopez&theme=dark&hide_border=true" alt="Racha de Christian" width="54%" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ChrisraaaLopez&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Lenguajes de Christian" width="44%" />
 </p>
+
 ---
 
 ### 👇 ¡Hablemos! (Contáctame)
@@ -33,6 +34,9 @@ Soy un Ingeniero en Sistemas Computacionales (ISC) especializado en el desarroll
   <a href="#" target="blank">
     <img src="https://img.shields.io/badge/Descargar_CV-_-%23333?style=for-the-badge&logo=directus&logoColor=white" alt="Descargar CV de Christian" />
   </a>
+  <a href="https://chrisraaalopez.github.io/christian-backend-portfolio/" target="_blank">
+  <img src="https://img.shields.io/badge/Portafolio_Web-Ver_Proyecto-4A9EFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portafolio de Christian Lopez" />
+</a>
 </p>
 
 ---
