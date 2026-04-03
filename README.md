@@ -1,7 +1,6 @@
 # ¡Hola 👋, soy Christian!
 
 ![Banner de .NET moderno](https://img.shields.io/badge/.NET_8+_|_C%23-_-%23512BD4?style=for-the-badge&logo=.net&logoColor=white) 
-![Azure Developer](https://img.shields.io/badge/Azure_|_Cloud_Native-_-%230089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Clean Architecture](https://img.shields.io/badge/Architecture_|_DDD-_-%23333?style=for-the-badge&logo=directus&logoColor=white)
 
 ---
