@@ -8,16 +8,7 @@
 
 ### Sobre mí
 
-Soy un Ingeniero en Sistemas Computacionales (ISC) especializado en el desarrollo **Backend robusto y escalable utilizando el SDK de .NET moderno (C#)**. Mi enfoque principal es la construcción de arquitecturas limpias, seguras y de alto rendimiento en la nube (Azure/AWS).
-
----
-
-### Stats GitHub
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChrisraaaLopez&theme=dark&hide_border=true" alt="Racha de Christian" width="54%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ChrisraaaLopez&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Lenguajes de Christian" width="44%" />
-</p>
+Soy un Ingeniero en Sistemas Computacionales (ISC) especializado en el desarrollo **Backend robusto y escalable utilizando el SDK de .NET moderno (C#)**.
 
 ---
 
